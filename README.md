@@ -31,16 +31,13 @@ This project was built as a learning-focused GUI game to practice event handling
  - Snake growth on eating food
  - Game-over detection on wall or self collision
 
-▶️ How to Run the Game  
-- Download the file: 
-
--Choose the file directory
-cd python-snake-game
-
-Run the game:
-python snake_game.py
-
-⚠️ Tkinter comes pre-installed with most Python distributions.
+▶️ How to Run the Game
+ - Download the file:
+ - Choose the file directory
+      - cd python-snake-game
+ - Run the game:
+      - python snake_game.py
+ - ⚠️ Tkinter comes pre-installed with most Python distributions.
 
 
 🎮 Controls  
